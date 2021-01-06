@@ -43,7 +43,7 @@
         "xxhashjs": "^0.2.2"
     },
     "devDependencies": {
-        "@types/node-forge": "^0.6",
+        "@types/node-forge": "^0.9",
         "@types/pako": "^1.0",
         "eslint": "^7.14.0",
         "eslint-plugin-node": "^11.1.0"
